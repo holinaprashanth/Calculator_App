@@ -1,1 +1,3 @@
-this file will going to explain the commit 
+adding the file
+new line
+new one
