@@ -1,3 +1,1 @@
-ithis file will going to explain the commit 
-this is the new line
-
+this file will going to explain the commit 
