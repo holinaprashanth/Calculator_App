@@ -1,3 +1,6 @@
 adding the file
+<<<<<<< HEAD
 new line
 new one
+=======
+>>>>>>> 844d3958e49a523a087ef2cc14a33e906d6984de
